@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-color: #000000; 
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+table {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+h1, h2 {
+    color: white;
+}
+
+th, tr, td {
+    border: solid 2px white;
+    color: white;
+	width: 600px
+}
+
+input, textarea{
+    background-color: #454545;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+h3{
+    color: white;
+    position: absolute;
+    left: 0.5cm;
+    top: 0cm;
+}
+
+embed, iframe{
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+}
+
+div{
+    color: white;
+    position: absolute;
+    right: 0.5cm;
+    top: 0cm;
+}
